@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cdn-cgi/l/email-protection
+Allow: /
+
+Sitemap: https://construction-companies-oman.alwejhagroup.com/sitemap.xml
